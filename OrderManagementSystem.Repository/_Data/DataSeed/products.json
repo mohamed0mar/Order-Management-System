@@ -1,0 +1,91 @@
+[{
+        "Name": "Double Caramel Frappuccino",
+        "Price": 200,
+       "Stock":5
+    },
+    {
+        "Name": "White Chocolate Mocha Frappuccino",
+        "Price": 150,
+        "Stock":3
+    },
+    {
+        "Name": "Iced Cafe Latte",
+        "Price": 180,
+        "Stock":10
+    },
+    {
+        "Name": "White Chocolate Mocha",
+        "Price": 300,
+        "Stock":2
+    },
+    {
+        "Name": "Iced Caramel Macchiato",
+        "Price": 250,
+        "Stock":0
+    },
+    {
+        "Name": "Hot Caramel Macchiato",
+        "Price": 120,
+        "Stock":5
+    },
+    {
+        "Name": "Iced Matcha Latte",
+        "Price": 10,
+        "Stock":1
+    },
+    {
+        "Name": "Honey Cake",
+        "Price": 8,
+        "Stock":2
+    },
+    {
+        "Name": "Blueberry Cheesecake",
+        "Price": 15,
+        "Stock":5
+    },
+    {
+        "Name": "Glazed Donuts",
+        "Price": 18,
+        "Stock":3
+    },
+    {
+        "Name": "Greek Salad",
+        "Price": 15,
+        "Stock":0
+    },
+    {
+        "Name": "Iced Black Tea Lemonade",
+        "Price": 16,
+        "Stock":5
+    },
+    {
+        "Name": "Iced London Fog Tea Latte",
+        "Price": 14,
+        "Stock":2
+    },
+    {
+        "Name": "Turkey Bacon, Cheddar & Egg White Sandwich",
+        "Price": 250,
+        "Stock":5
+    },
+    {
+        "Name": "Iced Matcha",
+        "Price": 189.99,
+        "Stock":0
+    },
+    {
+        "Name": "Double-Smoked Bacon, Cheddar & Egg Sandwich",
+        "Price": 199.99,
+        "Stock":5
+    },
+    {
+        "Name": "Iced Chai Tea Latte with Oleato Golden Foam",
+        "Price": 150,
+        "Stock":3
+    },
+    {
+        "Name": "Dragon Drink® Starbucks Refreshers® Beverage with Oleato Golden Foam",
+        "Price": 180,
+        "Stock":0
+    }
+]
